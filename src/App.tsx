@@ -86,7 +86,7 @@ export function App() {
           FOREVER
         </div>
         <div className="graffiti graffiti-3" style={{"--rotation": "-10deg"} as React.CSSProperties}>
-          XOXO
+          SUMAIYA
         </div>
         <div className="graffiti graffiti-4" style={{"--rotation": "10deg"} as React.CSSProperties}>
           CUTIE SIS
