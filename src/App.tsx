@@ -128,7 +128,7 @@ export function App() {
       </div>
       
       <div className="content">
-        <h1 className="question">PREETI, WILL YOU BE MY VALENTINE?</h1>
+        <h1 className="question">SUMAIYA, WILL YOU BE MY GIRLFRIEND?</h1>
         
         <div className="button-container">
           <button 
